@@ -1,6 +1,6 @@
 ### BSC_DPDM
 ## 📘 Introduction to Data Mining — Summary (Chapter 1)
-#⭐ 1. Why Data Mining?
+# ⭐ 1. Why Data Mining?
 
 ปริมาณข้อมูลเพิ่มขึ้นมหาศาล (TB → PB)
 
