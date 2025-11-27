@@ -1,5 +1,5 @@
-# BSC_DPDM
-📘 Introduction to Data Mining — Summary (Chapter 1)
+### BSC_DPDM
+## 📘 Introduction to Data Mining — Summary (Chapter 1)
 ⭐ 1. Why Data Mining?
 
 ปริมาณข้อมูลเพิ่มขึ้นมหาศาล (TB → PB)
@@ -10,7 +10,7 @@
 
 Data Mining = ความสามารถในการ “ค้นหาความรู้ที่มีประโยชน์” จากข้อมูลจำนวนมาก
 
-⭐ 2. What Is Data Mining?
+# ⭐ 2. What Is Data Mining?
 
 Data Mining = การค้นหา pattern ที่น่าสนใจ ไม่ชัดเจน ซ่อนอยู่ และมีประโยชน์
 รู้จักกันในชื่อ:
@@ -25,7 +25,7 @@ Business intelligence
 
 ❌ ไม่ใช่แค่การ search หรือ query ธรรมดา
 
-⭐ 3. KDD Process (ขั้นตอนค้นหาความรู้)
+# ⭐ 3. KDD Process (ขั้นตอนค้นหาความรู้)
 
 Data Cleaning – ลบข้อมูลสกปรก
 
@@ -41,7 +41,7 @@ Pattern Evaluation – เลือก pattern ที่มีประโยช
 
 Knowledge Presentation – แสดงผลให้ง่ายต่อการเข้าใจ
 
-⭐ 4. Types of Data That Can Be Mined
+# ⭐ 4. Types of Data That Can Be Mined
 
 Relational database
 
@@ -61,7 +61,7 @@ Multimedia
 
 👉 เกือบทุกชนิดข้อมูลบนโลกสามารถทำ mining ได้
 
-⭐ 5. Types of Patterns from Data Mining
+# ⭐ 5. Types of Patterns from Data Mining
 ✔ Generalization / OLAP
 
 สรุปข้อมูล, เปรียบเทียบกลุ่มข้อมูล, ใช้ data cube
@@ -91,7 +91,7 @@ Diaper → Beer (support, confidence)
 
 PageRank, social network analysis, graph mining
 
-⭐ 6. Major Issues in Data Mining
+# ⭐ 6. Major Issues in Data Mining
 
 Scalability (ข้อมูลใหญ่)
 
@@ -107,7 +107,7 @@ Interactive mining
 
 Efficient algorithms
 
-⭐ 7. Interdisciplinary Nature
+# ⭐ 7. Interdisciplinary Nature
 
 Data mining เกิดจากการรวมของหลายศาสตร์:
 
@@ -123,7 +123,7 @@ High-performance computing
 
 Visualization
 
-⭐ 8. Applications of Data Mining
+# ⭐ 8. Applications of Data Mining
 
 Recommendation (YouTube, Netflix)
 
@@ -141,7 +141,7 @@ Software engineering
 
 Text mining
 
-⭐ 9. History of Data Mining
+# ⭐ 9. History of Data Mining
 
 เริ่มในปี 1989 (KDD Workshop)
 
@@ -149,7 +149,7 @@ Text mining
 
 วารสารสำคัญ: DMKD, TKDE, ACM TKDD
 
-⭐ 10. Summary
+# ⭐ 10. Summary
 
 Data mining = การค้นหารูปแบบที่น่าสนใจในข้อมูลจำนวนมาก
 
