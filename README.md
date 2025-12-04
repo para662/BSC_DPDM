@@ -160,3 +160,23 @@ Data mining = การค้นหารูปแบบที่น่าสน
 ฟังก์ชันหลัก: classification, clustering, association, outlier detection, sequence analysis
 
 ประเด็นสำคัญ: scalability, data variety, privacy
+
+### Data Mining Summary
+
+📘 Preview (วางลิงก์สรุปแต่ละบทที่นี่)
+
+Chapter 1:
+
+Chapter 2:https://docs.google.com/document/d/1GF3BjP3vPMij63I5xJNDmv3YIac_U7GMOuByIKuG1OI/edit?usp=sharing
+
+Chapter 3:
+
+Chapter 4:
+
+(เพิ่มต่อได้ตามจำนวนบท)
+
+📚 รายการบท (สรุปสั้นมาก)
+
+Chapter 1 — Introduction: ความหมายของ Data Mining, ขั้นตอนเบื้องต้น
+
+Chapter 2 — Getting to Know Your Data: ชนิดข้อมูล, ค่าสถิติพื้นฐาน, การวัดระยะห่าง
